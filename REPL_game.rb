@@ -222,3 +222,5 @@ def validate_start
   validate_start
 end
 menu_screen
+
+//Comment by Alex V. #Tech9!
